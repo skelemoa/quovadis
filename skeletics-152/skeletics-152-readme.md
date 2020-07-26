@@ -78,257 +78,257 @@ Some samples of the vibe skeleton estimations on the RGB video are shown below.
 <table>
 
 <tr>
-	<td align = "center">**A1** tai chi</td>
-	<td align = "center">**A2** walking with crutches</td>
-	<td align = "center">**A3** juggling soccer ball</td>
+	<td align = "center"><b>A1</b> tai chi</td>
+	<td align = "center"><b>A2</b> walking with crutches</td>
+	<td align = "center"><b>A3</b> juggling soccer ball</td>
 </tr>
 <tr>
-	<td align = "center">**A4** dribbling basketball</td>
-	<td align = "center">**A5** catching or throwing softball</td>
-	<td align = "center">**A6** playing organ</td>
+	<td align = "center"><b>A4</b> dribbling basketball</td>
+	<td align = "center"><b>A5</b> catching or throwing softball</td>
+	<td align = "center"><b>A6</b> playing organ</td>
 </tr>
 <tr>
-	<td align = "center">**A7** catching or throwing baseball</td>
-	<td align = "center">**A8** taking photo</td>
-	<td align = "center">**A9** robot dancing</td>
+	<td align = "center"><b>A7</b> catching or throwing baseball</td>
+	<td align = "center"><b>A8</b> taking photo</td>
+	<td align = "center"><b>A9</b> robot dancing</td>
 </tr>
 <tr>
-	<td align = "center">**A10** playing cello</td>
-	<td align = "center">**A11** training dog</td>
-	<td align = "center">**A12** tiptoeing</td>
+	<td align = "center"><b>A10</b> playing cello</td>
+	<td align = "center"><b>A11</b> training dog</td>
+	<td align = "center"><b>A12</b> tiptoeing</td>
 </tr>
 <tr>
-	<td align = "center">**A13** pumping fist</td>
-	<td align = "center">**A14** contact juggling</td>
-	<td align = "center">**A15** skipping stone</td>
+	<td align = "center"><b>A13</b> pumping fist</td>
+	<td align = "center"><b>A14</b> contact juggling</td>
+	<td align = "center"><b>A15</b> skipping stone</td>
 </tr>
 <tr>
-	<td align = "center">**A16** playing piccolo</td>
-	<td align = "center">**A17** front raises</td>
-	<td align = "center">**A18** dancing gangnam style</td>
+	<td align = "center"><b>A16</b> playing piccolo</td>
+	<td align = "center"><b>A17</b> front raises</td>
+	<td align = "center"><b>A18</b> dancing gangnam style</td>
 </tr>
 <tr>
-	<td align = "center">**A19** head stand</td>
-	<td align = "center">**A20** side kick</td>
-	<td align = "center">**A21** push up</td>
+	<td align = "center"><b>A19</b> head stand</td>
+	<td align = "center"><b>A20</b> side kick</td>
+	<td align = "center"><b>A21</b> push up</td>
 </tr>
 <tr>
-	<td align = "center">**A22** riding a bike</td>
-	<td align = "center">**A23** stretching arm</td>
-	<td align = "center">**A24** bench pressing</td>
+	<td align = "center"><b>A22</b> riding a bike</td>
+	<td align = "center"><b>A23</b> stretching arm</td>
+	<td align = "center"><b>A24</b> bench pressing</td>
 </tr>
 <tr>
-	<td align = "center">**A25** casting fishing line</td>
-	<td align = "center">**A26** disc golfing</td>
-	<td align = "center">**A27** playing accordion</td>
+	<td align = "center"><b>A25</b> casting fishing line</td>
+	<td align = "center"><b>A26</b> disc golfing</td>
+	<td align = "center"><b>A27</b> playing accordion</td>
 </tr>
 <tr>
-	<td align = "center">**A28** playing ping pong</td>
-	<td align = "center">**A29** air drumming</td>
-	<td align = "center">**A30** chopping wood</td>
+	<td align = "center"><b>A28</b> playing ping pong</td>
+	<td align = "center"><b>A29</b> air drumming</td>
+	<td align = "center"><b>A30</b> chopping wood</td>
 </tr>
 <tr>
-	<td align = "center">**A31** country line dancing</td>
-	<td align = "center">**A32** tightrope walking</td>
-	<td align = "center">**A33** catching or throwing frisbee</td>
+	<td align = "center"><b>A31</b> country line dancing</td>
+	<td align = "center"><b>A32</b> tightrope walking</td>
+	<td align = "center"><b>A33</b> catching or throwing frisbee</td>
 </tr>
 <tr>
-	<td align = "center">**A34** exercising with an exercise ball</td>
-	<td align = "center">**A35** riding mechanical bull</td>
-	<td align = "center">**A36** rope pushdown</td>
+	<td align = "center"><b>A34</b> exercising with an exercise ball</td>
+	<td align = "center"><b>A35</b> riding mechanical bull</td>
+	<td align = "center"><b>A36</b> rope pushdown</td>
 </tr>
 <tr>
-	<td align = "center">**A37** digging</td>
-	<td align = "center">**A38** situp</td>
-	<td align = "center">**A39** shearing sheep</td>
+	<td align = "center"><b>A37</b> digging</td>
+	<td align = "center"><b>A38</b> situp</td>
+	<td align = "center"><b>A39</b> shearing sheep</td>
 </tr>
 <tr>
-	<td align = "center">**A40** breaking boards</td>
-	<td align = "center">**A41** playing guitar</td>
-	<td align = "center">**A42** golf driving</td>
+	<td align = "center"><b>A40</b> breaking boards</td>
+	<td align = "center"><b>A41</b> playing guitar</td>
+	<td align = "center"><b>A42</b> golf driving</td>
 </tr>
 <tr>
-	<td align = "center">**A43** playing drums</td>
-	<td align = "center">**A44** riding mule</td>
-	<td align = "center">**A45** playing ukulele</td>
+	<td align = "center"><b>A43</b> playing drums</td>
+	<td align = "center"><b>A44</b> riding mule</td>
+	<td align = "center"><b>A45</b> playing ukulele</td>
 </tr>
 <tr>
-	<td align = "center">**A46** hula hooping</td>
-	<td align = "center">**A47** javelin throw</td>
-	<td align = "center">**A48** singing</td>
+	<td align = "center"><b>A46</b> hula hooping</td>
+	<td align = "center"><b>A47</b> javelin throw</td>
+	<td align = "center"><b>A48</b> singing</td>
 </tr>
 <tr>
-	<td align = "center">**A49** clapping</td>
-	<td align = "center">**A50** snatch weight lifting</td>
-	<td align = "center">**A51** snorkeling</td>
+	<td align = "center"><b>A49</b> clapping</td>
+	<td align = "center"><b>A50</b> snatch weight lifting</td>
+	<td align = "center"><b>A51</b> snorkeling</td>
 </tr>
 <tr>
-	<td align = "center">**A52** golf chipping</td>
-	<td align = "center">**A53** clean and jerk</td>
-	<td align = "center">**A54** sweeping floor</td>
+	<td align = "center"><b>A52</b> golf chipping</td>
+	<td align = "center"><b>A53</b> clean and jerk</td>
+	<td align = "center"><b>A54</b> sweeping floor</td>
 </tr>
 <tr>
-	<td align = "center">**A55** passing soccer ball</td>
-	<td align = "center">**A56** long jump</td>
-	<td align = "center">**A57** playing harp</td>
+	<td align = "center"><b>A55</b> passing soccer ball</td>
+	<td align = "center"><b>A56</b> long jump</td>
+	<td align = "center"><b>A57</b> playing harp</td>
 </tr>
 <tr>
-	<td align = "center">**A58** tackling</td>
-	<td align = "center">**A59** skiing slalom</td>
-	<td align = "center">**A60** playing field hockey</td>
+	<td align = "center"><b>A58</b> tackling</td>
+	<td align = "center"><b>A59</b> skiing slalom</td>
+	<td align = "center"><b>A60</b> playing field hockey</td>
 </tr>
 <tr>
-	<td align = "center">**A61** golf putting</td>
-	<td align = "center">**A62** playing harmonica</td>
-	<td align = "center">**A63** swinging on something</td>
+	<td align = "center"><b>A61</b> golf putting</td>
+	<td align = "center"><b>A62</b> playing harmonica</td>
+	<td align = "center"><b>A63</b> swinging on something</td>
 </tr>
 <tr>
-	<td align = "center">**A64** longboarding</td>
-	<td align = "center">**A65** jumping into pool</td>
-	<td align = "center">**A66** snowboarding</td>
+	<td align = "center"><b>A64</b> longboarding</td>
+	<td align = "center"><b>A65</b> jumping into pool</td>
+	<td align = "center"><b>A66</b> snowboarding</td>
 </tr>
 <tr>
-	<td align = "center">**A67** bowling</td>
-	<td align = "center">**A68** shoot dance</td>
-	<td align = "center">**A69** saluting</td>
+	<td align = "center"><b>A67</b> bowling</td>
+	<td align = "center"><b>A68</b> shoot dance</td>
+	<td align = "center"><b>A69</b> saluting</td>
 </tr>
 <tr>
-	<td align = "center">**A70** deadlifting</td>
-	<td align = "center">**A71** jumping jacks</td>
-	<td align = "center">**A72** bouncing on bouncy castle</td>
+	<td align = "center"><b>A70</b> deadlifting</td>
+	<td align = "center"><b>A71</b> jumping jacks</td>
+	<td align = "center"><b>A72</b> bouncing on bouncy castle</td>
 </tr>
 <tr>
-	<td align = "center">**A73** playing squash or racquetball</td>
-	<td align = "center">**A74** shot put</td>
-	<td align = "center">**A75** yoga</td>
+	<td align = "center"><b>A73</b> playing squash or racquetball</td>
+	<td align = "center"><b>A74</b> shot put</td>
+	<td align = "center"><b>A75</b> yoga</td>
 </tr>
 <tr>
-	<td align = "center">**A76** falling off chair</td>
-	<td align = "center">**A77** playing tennis</td>
-	<td align = "center">**A78** swinging baseball bat</td>
+	<td align = "center"><b>A76</b> falling off chair</td>
+	<td align = "center"><b>A77</b> playing tennis</td>
+	<td align = "center"><b>A78</b> swinging baseball bat</td>
 </tr>
 <tr>
-	<td align = "center">**A79** moon walking</td>
-	<td align = "center">**A80** archery</td>
-	<td align = "center">**A81** stretching leg</td>
+	<td align = "center"><b>A79</b> moon walking</td>
+	<td align = "center"><b>A80</b> archery</td>
+	<td align = "center"><b>A81</b> stretching leg</td>
 </tr>
 <tr>
-	<td align = "center">**A82** checking watch</td>
-	<td align = "center">**A83** climbing a rope</td>
-	<td align = "center">**A84** pull ups</td>
+	<td align = "center"><b>A82</b> checking watch</td>
+	<td align = "center"><b>A83</b> climbing a rope</td>
+	<td align = "center"><b>A84</b> pull ups</td>
 </tr>
 <tr>
-	<td align = "center">**A85** tobogganing</td>
-	<td align = "center">**A86** hitting baseball</td>
-	<td align = "center">**A87** pushing cart</td>
+	<td align = "center"><b>A85</b> tobogganing</td>
+	<td align = "center"><b>A86</b> hitting baseball</td>
+	<td align = "center"><b>A87</b> pushing cart</td>
 </tr>
 <tr>
-	<td align = "center">**A88** paragliding</td>
-	<td align = "center">**A89** running on treadmill</td>
-	<td align = "center">**A90** high fiving</td>
+	<td align = "center"><b>A88</b> paragliding</td>
+	<td align = "center"><b>A89</b> running on treadmill</td>
+	<td align = "center"><b>A90</b> high fiving</td>
 </tr>
 <tr>
-	<td align = "center">**A91** cumbia</td>
-	<td align = "center">**A92** battle rope training</td>
-	<td align = "center">**A93** playing oboe</td>
+	<td align = "center"><b>A91</b> cumbia</td>
+	<td align = "center"><b>A92</b> battle rope training</td>
+	<td align = "center"><b>A93</b> playing oboe</td>
 </tr>
 <tr>
-	<td align = "center">**A94** sword swallowing</td>
-	<td align = "center">**A95** biking through snow</td>
-	<td align = "center">**A96** playing violin</td>
+	<td align = "center"><b>A94</b> sword swallowing</td>
+	<td align = "center"><b>A95</b> biking through snow</td>
+	<td align = "center"><b>A96</b> playing violin</td>
 </tr>
 <tr>
-	<td align = "center">**A97** jogging</td>
-	<td align = "center">**A98** opening door</td>
-	<td align = "center">**A99** chiseling stone</td>
+	<td align = "center"><b>A97</b> jogging</td>
+	<td align = "center"><b>A98</b> opening door</td>
+	<td align = "center"><b>A99</b> chiseling stone</td>
 </tr>
 <tr>
-	<td align = "center">**A100** abseiling</td>
-	<td align = "center">**A101** hammer throw</td>
-	<td align = "center">**A102**  standing on hands</td>
+	<td align = "center"><b>A100</b> abseiling</td>
+	<td align = "center"><b>A101</b> hammer throw</td>
+	<td align = "center"><b>A102</b>  standing on hands</td>
 </tr>
 <tr>
-	<td align = "center">**A103** sword fighting</td>
-	<td align = "center">**A104** dunking basketball</td>
-	<td align = "center">**A105** reading book</td>
+	<td align = "center"><b>A103</b> sword fighting</td>
+	<td align = "center"><b>A104</b> dunking basketball</td>
+	<td align = "center"><b>A105</b> reading book</td>
 </tr>
 <tr>
-	<td align = "center">**A106** jumpstyle dancing</td>
-	<td align = "center">**A107** cutting cake</td>
-	<td align = "center">**A108** belly dancing</td>
+	<td align = "center"><b>A106</b> jumpstyle dancing</td>
+	<td align = "center"><b>A107</b> cutting cake</td>
+	<td align = "center"><b>A108</b> belly dancing</td>
 </tr>
 <tr>
-	<td align = "center">**A109** exercising arm</td>
-	<td align = "center">**A110** pushing wheelbarrow</td>
-	<td align = "center">**A111** pushing car</td>
+	<td align = "center"><b>A109</b> exercising arm</td>
+	<td align = "center"><b>A110</b> pushing wheelbarrow</td>
+	<td align = "center"><b>A111</b> pushing car</td>
 </tr>
 <tr>
-	<td align = "center">**A112** lunge</td>
-	<td align = "center">**A113** hopscotch</td>
-	<td align = "center">**A114** ski ballet</td>
+	<td align = "center"><b>A112</b> lunge</td>
+	<td align = "center"><b>A113</b> hopscotch</td>
+	<td align = "center"><b>A114</b> ski ballet</td>
 </tr>
 <tr>
-	<td align = "center">**A115** combing hair</td>
-	<td align = "center">**A116** playing hand clapping games</td>
-	<td align = "center">**A117** playing trombone</td>
+	<td align = "center"><b>A115</b> combing hair</td>
+	<td align = "center"><b>A116</b> playing hand clapping games</td>
+	<td align = "center"><b>A117</b> playing trombone</td>
 </tr>
 <tr>
-	<td align = "center">**A118** clam digging</td>
-	<td align = "center">**A119** slacklining</td>
-	<td align = "center">**A120** climbing tree</td>
+	<td align = "center"><b>A118</b> clam digging</td>
+	<td align = "center"><b>A119</b> slacklining</td>
+	<td align = "center"><b>A120</b> climbing tree</td>
 </tr>
 <tr>
-	<td align = "center">**A121** walking on stilts</td>
-	<td align = "center">**A122** eating watermelon</td>
-	<td align = "center">**A123** squat</td>
+	<td align = "center"><b>A121</b> walking on stilts</td>
+	<td align = "center"><b>A122</b> eating watermelon</td>
+	<td align = "center"><b>A123</b> squat</td>
 </tr>
 <tr>
-	<td align = "center">**A124** skiing crosscountry</td>
-	<td align = "center">**A125** ice skating</td>
-	<td align = "center">**A126** falling off bike</td>
+	<td align = "center"><b>A124</b> skiing crosscountry</td>
+	<td align = "center"><b>A125</b> ice skating</td>
+	<td align = "center"><b>A126</b> falling off bike</td>
 </tr>
 <tr>
-	<td align = "center">**A127** krumping</td>
-	<td align = "center">**A128** punching bag</td>
-	<td align = "center">**A129** directing traffic</td>
+	<td align = "center"><b>A127</b> krumping</td>
+	<td align = "center"><b>A128</b> punching bag</td>
+	<td align = "center"><b>A129</b> directing traffic</td>
 </tr>
 <tr>
-	<td align = "center">**A130** playing badminton</td>
-	<td align = "center">**A131** backflip (human)</td>
-	<td align = "center">**A132** bouncing ball (not juggling)</td>
+	<td align = "center"><b>A130</b> playing badminton</td>
+	<td align = "center"><b>A131</b> backflip (human)</td>
+	<td align = "center"><b>A132</b> bouncing ball (not juggling)</td>
 </tr>
 <tr>
-	<td align = "center">**A133** fencing (sport)</td>
-	<td align = "center">**A134** hugging (not baby)</td>
-	<td align = "center">**A135** mountain climber (exercise)</td>
+	<td align = "center"><b>A133</b> fencing (sport)</td>
+	<td align = "center"><b>A134</b> hugging (not baby)</td>
+	<td align = "center"><b>A135</b> mountain climber (exercise)</td>
 </tr>
 <tr>
-	<td align = "center">**A136** passing American football (not in game)</td>
-	<td align = "center">**A137** playing saxophone</td>
-	<td align = "center">**A138** pulling rope (game)</td>
+	<td align = "center"><b>A136</b> passing American football (not in game)</td>
+	<td align = "center"><b>A137</b> playing saxophone</td>
+	<td align = "center"><b>A138</b> pulling rope (game)</td>
 </tr>
 <tr>
-	<td align = "center">**A139** punching person (boxing)</td>
-	<td align = "center">**A140** riding camel</td>
-	<td align = "center">**A141** riding unicycle</td>
+	<td align = "center"><b>A139</b> punching person (boxing)</td>
+	<td align = "center"><b>A140</b> riding camel</td>
+	<td align = "center"><b>A141</b> riding unicycle</td>
 </tr>
 <tr>
-	<td align = "center">**A142** rock climbing</td>
-	<td align = "center">**A143** roller skating</td>
-	<td align = "center">**A144** salsa dancing</td>
+	<td align = "center"><b>A142</b> rock climbing</td>
+	<td align = "center"><b>A143</b> roller skating</td>
+	<td align = "center"><b>A144</b> salsa dancing</td>
 </tr>
 <tr>
-	<td align = "center">**A145** shooting goal (soccer)</td>
-	<td align = "center">**A146** tango dancing</td>
-	<td align = "center">**A147** tap dancing</td>
+	<td align = "center"><b>A145</b> shooting goal (soccer)</td>
+	<td align = "center"><b>A146</b> tango dancing</td>
+	<td align = "center"><b>A147</b> tap dancing</td>
 </tr>
 <tr>
-	<td align = "center">**A148** tapping guitar</td>
-	<td align = "center">**A149** trimming shrubs</td>
-	<td align = "center">**A150** using a sledge hammer</td>
+	<td align = "center"><b>A148</b> tapping guitar</td>
+	<td align = "center"><b>A149</b> trimming shrubs</td>
+	<td align = "center"><b>A150</b> using a sledge hammer</td>
 </tr>
 <tr>
-	<td align = "center">**A151** wrestling</td>
-	<td align = "center">**A152** zumba</td>
+	<td align = "center"><b>A151</b> wrestling</td>
+	<td align = "center"><b>A152</b> zumba</td>
 </tr>
 </table>
