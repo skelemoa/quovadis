@@ -69,7 +69,7 @@ Some samples of the vibe skeleton estimations on the RGB video are shown below.
 
 </table>
 
-### Selected Classes
+### Class Labels (23 classes)
 
 <table>
 
@@ -108,7 +108,7 @@ Some samples of the vibe skeleton estimations on the RGB video are shown below.
  <td align = "center">archery</td>
  <td align = "center">bowling</td>
 </tr>
-<tr> 
+<tr>
  <td align = "center">climbing a rope</td>
  <td align = "center">dribbling basketball</td>
 </tr>

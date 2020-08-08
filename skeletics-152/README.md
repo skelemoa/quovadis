@@ -73,7 +73,7 @@ Some samples of the vibe skeleton estimations on the RGB video are shown below.
 </table>
 
 
-### Selected Classes
+### Class Labels (152 classes)
 
 <table>
 

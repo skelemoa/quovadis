@@ -11,7 +11,7 @@ This paper introduced 2 new skeleton human action datasets:
 - Skeletics-152
 - Skeleton-mimetics
 
-The details about each of these datasets can be found in [skeletics-152-readme.md](./skeletics-152/skeletics-152-readme.md) and [skeleton-mimetics-readme.md](./skeleton-mimetics/skeleton-mimetics-readme.md).
+The details about each of these datasets can be found in [skeletics-152 README](./skeletics-152/README.md) and [skeleton-mimetics README](./skeleton-mimetics/README.md).
 
 ### Citation
 ```
