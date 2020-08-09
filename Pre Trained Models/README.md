@@ -28,6 +28,5 @@ Following is the list of different models codes. Instruction to use pretrained w
 - [MsG3D](https://github.com/kenziyuliu/MS-G3D)
 - [ShiftGCN](https://github.com/kchengiva/Shift-GCN)
 - [VaCNN](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)
-- [2s-SDGCN]()
-- [DgNN]()
+- [DgNN](https://github.com/kenziyuliu/Unofficial-DGNN-PyTorch)
 - [GCN-NAS](https://github.com/xiaoiker/GCN-NAS)
