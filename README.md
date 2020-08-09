@@ -13,6 +13,14 @@ This paper introduced 2 new skeleton human action datasets:
 
 The details about each of these datasets can be found in [skeletics-152 README](./skeletics-152/README.md) and [skeleton-mimetics README](./skeleton-mimetics/README.md).
 
+### Pre Trained models
+
+This repository contains pre trained models weights for all the models that were trained as mentioned in the paper. The weights of different models for different datasets can be found [here](./Pre Trained Models/)
+
+### Scripts
+
+This repository contains scripts needed to parse the VIBE skeleton data into usable VaCNN and GCN formats. The scripts and instructions to use those scripts can be found [here](./Scripts/)
+
 ### Citation
 ```
 @misc{gupta2020quo,
