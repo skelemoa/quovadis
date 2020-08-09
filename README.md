@@ -15,7 +15,7 @@ The details about each of these datasets can be found in [skeletics-152 README](
 
 ### Pre Trained models
 
-This repository contains pre trained models weights for all the models that were trained as mentioned in the paper. The weights of different models for different datasets can be found [here](./Pre Trained Models/)
+This repository contains pre trained models weights for all the models that were trained as mentioned in the paper. The weights of different models for different datasets can be found [here](./Pre%20Trained%20Models/)
 
 ### Scripts
 
