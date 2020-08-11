@@ -62,7 +62,7 @@ Some samples of the vibe skeleton estimations on the RGB video are shown below.
 </tr>
 
 <tr>
-  <td align="center">Clean And Jerk</td>
+  <td align="center">Playing Guitar</td>
   <td align="center">Deadlifting</td>
   <td align="center">Golf</td>
 </tr>
