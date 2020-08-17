@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/quo-vadis-skeleton-action-recognition/skeleton-based-action-recognition-on-ntu-rgbd-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1?p=quo-vadis-skeleton-action-recognition)
+
 # Quo Vadis, Skeleton Action Recognition ?
 
 This repository contains datasets and scripts for the paper <a href="https://arxiv.org/pdf/2007.02072v1.pdf">Quo Vadis, Skeleton Action Recognition ?</a>
