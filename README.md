@@ -12,9 +12,9 @@ This paper introduced 2 new skeleton human action datasets:
 
 - Skeletics-152
 - Skeleton-mimetics
-- Metamorphics
+- Metaphorics
 
-The details about each of these datasets can be found in [skeletics-152 README](./skeletics-152/README.md), [skeleton-mimetics README](./skeleton-mimetics/README.md) and [metamorphics README](./metamorphics/README.md).
+The details about each of these datasets can be found in [skeletics-152 README](./skeletics-152/README.md), [skeleton-mimetics README](./skeleton-mimetics/README.md) and [metaphorics README](./metaphorics/README.md).
 
 ### Pre Trained models
 
