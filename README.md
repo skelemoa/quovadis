@@ -11,7 +11,7 @@ This paper primarily contributes towards benchmarking of exisiting skeleton huma
 We also introduce 3 new skeleton human action datasets:
 
 - [Skeletics-152](./skeletics-152/)
-- [Skeleton-mimetics]./skeleton-mimetics/)
+- [Skeleton-mimetics](./skeleton-mimetics/)
 - [Metaphorics](./metaphorics/)
 
 The details about each of these datasets can be found in [skeletics-152 README](./skeletics-152/README.md), [skeleton-mimetics README](./skeleton-mimetics/README.md) and [metaphorics README](./metaphorics/README.md).
