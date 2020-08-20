@@ -4,11 +4,11 @@
 
 This repository contains datasets and scripts for the paper <a href="https://arxiv.org/pdf/2007.02072v1.pdf">Quo Vadis, Skeleton Action Recognition ?</a>
 
-This paper primarily contributed towards benchmarking of exisiting skeleton human action recognition models on larger datasets like <a href = "http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp">NTU-120</a> and also provides insight on how these models performs for *in the wild* data as well.
+This paper primarily contributes towards benchmarking of exisiting skeleton human action recognition models on larger datasets like <a href = "http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp">NTU-120</a> and also provides insight on how these models performs for *in the wild* data as well.
 
 <img src = "static/main_datasets.png"/>
 
-This paper introduced 2 new skeleton human action datasets:
+We also introduce 3 new skeleton human action datasets:
 
 - Skeletics-152
 - Skeleton-mimetics
@@ -18,11 +18,11 @@ The details about each of these datasets can be found in [skeletics-152 README](
 
 ### Pre Trained models
 
-This repository contains pre trained models weights for all the models that were trained as mentioned in the paper. The weights of different models for different datasets can be found [here](./Pre%20Trained%20Models/)
+This repository contains pre-trained model weights for all the models that were trained as mentioned in the paper. The weights of different models for different datasets can be found [here](./Pre%20Trained%20Models/)
 
 ### Scripts
 
-This repository contains scripts needed to parse the VIBE skeleton data into usable VaCNN and GCN formats. The scripts and instructions to use those scripts can be found [here](./Scripts/)
+The scripts needed to parse VIBE skeleton data into usable VA-CNN and GCN formats can be found [here](./Scripts/)
 
 ### Citation
 ```
