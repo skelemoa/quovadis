@@ -10,6 +10,8 @@ There 3 sub folder within this folder, namely:
 
 The weights are stored in standard <b>.pt</b> format, and can be easily used using the method mentioned in respective model github repo.
 
+<i><b>NOTE: </b>Pre trained model weights for VaCNN on NTU 120 can be dowloaded from here. [Cross Subject](https://drive.google.com/file/d/1gbJ2c8TwqMdPQfdrZYAtCHMihx7P8tjx/view?usp=sharing) and [Cross Setup](https://drive.google.com/file/d/1PmdHy7kuP4LWSTYvurvpv0rUjCnf1Ava/view?usp=sharing)
+
 ### Naming Convention:
 
 The weight files are named in according to the dataset on which it is trained, stream name and epoch number.
