@@ -30,7 +30,7 @@ Since Kinetics 700 contains many categories which can't be considered to be of h
 
 ### Downalod Dataset
 
-Skeletics 152 dataset can be downloaded from this <a href = "https://skeleton.iiit.ac.in/skeletics-152-data">link</a>
+Skeletics 152 dataset can be downloaded from this <a href = "https://zenodo.org/record/4515787">link</a>
 
 A .zip file will be downloaded from this link which will contain, two more .zip files:
 1. vibe_results_train.zip
