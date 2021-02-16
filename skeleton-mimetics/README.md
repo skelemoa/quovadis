@@ -34,7 +34,7 @@ The <b>Skeleton Mimetics</b> dataset is carefully curated version of the origina
 
 ### Downalod Dataset
 
-Skeleton Mimetics dataset can be downloaded from this <a href = "https://skeleton.iiit.ac.in/skeleton-mimetics-data">link</a>
+Skeleton Mimetics dataset can be downloaded from this <a href = "https://zenodo.org/record/4543220">link</a>
 
 A .zip file will be downloaded from this link which will contain folders with the name of different classes and inside each folder there will be json files containing VIBE skeleon results for different video samples in that class.
 
