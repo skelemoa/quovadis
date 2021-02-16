@@ -32,7 +32,7 @@ The <b>Skeleton Mimetics</b> dataset is carefully curated version of the origina
 </table>
 </center>
 
-### Downalod Dataset
+### Download Dataset
 
 Skeleton Mimetics dataset can be downloaded from this <a href = "https://zenodo.org/record/4543220">link</a>
 
