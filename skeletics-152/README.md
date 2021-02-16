@@ -28,7 +28,7 @@ Since Kinetics 700 contains many categories which can't be considered to be of h
 </table>
 </center>
 
-### Downalod Dataset
+### Download Dataset
 
 Skeletics 152 dataset can be downloaded from this <a href = "https://zenodo.org/record/4515787">link</a>
 
