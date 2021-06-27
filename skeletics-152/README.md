@@ -42,8 +42,8 @@ Inside each of these .zip files there will be folders with the name of different
 
 ### Dataset preparation
 
-To obtain 3d skeletons from the RGB video, [VIBE pose estimation model](https://github.com/mkocabas/VIBE) is used. VIBE pose estimate gives 49 joints in total out of which we are choosing the first <b>25</b>
-body joints common with [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). The joint ordering for Openpose is [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/output.md#keypoint-ordering-in-cpython).
+To obtain 3d skeletons from the RGB video, [VIBE pose estimation model](https://github.com/mkocabas/VIBE) is used. VIBE pose estimatation gives 49 joints in total out of which we are choosing <b>25</b> body joints.
+
 The final videos are then split randomly into 80:20 train-val split.
 
 ### Samples
