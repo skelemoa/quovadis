@@ -26,12 +26,15 @@ The scripts needed to parse VIBE skeleton data into usable VA-CNN and GCN format
 
 ### Citation
 ```
-@misc{gupta2020quo,
-    title={Quo Vadis, Skeleton Action Recognition ?},
-    author={Pranay Gupta and Anirudh Thatipelli and Aditya Aggarwal and Shubh Maheshwari and Neel Trivedi and Sourav Das and Ravi Kiran Sarvadevabhatla},
-    year={2020},
-    eprint={2007.02072},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{Gupta2021,
+author={Gupta, Pranay and Thatipelli, Anirudh and Aggarwal, Aditya and Maheshwari, Shubh and Trivedi, Neel and Das, Sourav and Sarvadevabhatla, Ravi Kiran},
+title={Quo Vadis, Skeleton Action Recognition?},
+journal={International Journal of Computer Vision},
+year={2021},
+month={May},
+day={05},
+issn={1573-1405},
+doi={10.1007/s11263-021-01470-y},
+url={https://doi.org/10.1007/s11263-021-01470-y}
 }
 ```
